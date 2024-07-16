@@ -263,7 +263,7 @@ $RECYCLE.BIN/
 # Other
 # =========================
 
-**/.sms
+**/*.sms
 !**/.vs/
 **/.vs/*
 !**/.vs/launch.vs.json
